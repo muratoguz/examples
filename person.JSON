@@ -1,0 +1,1 @@
+{"ID":9,"FirstName":"Murat","LastName":"OĞUZ","Gender":"m","Name":{"Family":"smdebug","Personal":"Murat"},"Email":[{"ID":1,"Kind":"Personal","Address":"murat.oguz@smdebug.com"},{"ID":2,"Kind":"Job","Address":"murat.oguz@metglobal.com"}],"Interest":[{"ID":1,"Name":"Go"},{"ID":2,"Name":"Python"},{"ID":3,"Name":"PHP"}]}
