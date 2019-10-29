@@ -26,7 +26,7 @@ type Person struct {
 	ID        int
 	FirstName string
 	LastName  string
-	userName  string
+	UserName  string
 	Gender    string
 	Name      Name
 	Email     []Email
@@ -76,7 +76,7 @@ func main() {
 		ID:        9,
 		FirstName: "Murat",
 		LastName:  "OĞUZ",
-		userName:  "murat.oguz",
+		UserName:  "murat.oguz",
 		Gender:    "m",
 		Name:      Name{Family: "smdebug", Personal: "Murat"},
 		Email: []Email{
